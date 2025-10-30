@@ -1,4 +1,4 @@
-# KIROSSTRESS v10.0  
+# KIROSSTRESS v1.0
 **Stress Ultime – DDoS**
 
 ---
