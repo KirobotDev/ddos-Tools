@@ -22,7 +22,7 @@
 
 ```bash
 # 1. Cloner ou copier le script
-wget https://raw.githubusercontent.com/kirobotdev/ddos/main/kirosstress.py
+wget https://raw.githubusercontent.com/kirobotdev/ddos-tools/main/ddos.py
 
 # 2. Installer les dépendances
 pip install aiohttp requests
