@@ -28,4 +28,4 @@ wget https://raw.githubusercontent.com/kirobotdev/ddos-tools/main/ddos.py
 pip install aiohttp requests
 
 # 3. Lancer
-python3 kirosstress.py
+python3 ddos.py
