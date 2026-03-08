@@ -36,7 +36,15 @@ PROXY_SOURCES = [
     "https://www.proxy-list.download/api/v1/get?type=http",
     "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/mertguvencli/proxy-list/main/proxy-list/data.txt"
+    "https://github.com/proxifly/free-proxy-list/raw/refs/heads/main/proxies/protocols/http/data.txt",
+    "https://github.com/monosans/proxy-list/raw/refs/heads/main/proxies/http.txt",
+    "https://github.com/jetkai/proxy-list/raw/refs/heads/main/online-proxies/txt/proxies-http.txt",
+    "https://github.com/ShiftyTR/Proxy-List/raw/refs/heads/master/http.txt",
+    "https://github.com/mmpx12/proxy-list/raw/refs/heads/master/http.txt",
+    "https://github.com/mzyui/proxy-list/raw/refs/heads/main/http.txt",
+    "https://github.com/MuRongPIG/Proxy-Master/raw/refs/heads/main/http.txt",
+    "https://github.com/vakhov/fresh-proxy-list/raw/refs/heads/master/http.txt",
+    "https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/http.txt"
 ]
 
 def clear(): print("\033[H\033[J", end="")
