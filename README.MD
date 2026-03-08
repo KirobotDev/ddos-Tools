@@ -1,5 +1,5 @@
-# Il Ne marche plus pour le moment ;) A mètre a jour
-# KIROSSTRESS v1.0
+# Il Marche Actuelement
+# KIROSSTRESS v1.9
 **Stress Ultime – DDoS**
 
 ---
